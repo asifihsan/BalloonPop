@@ -14,10 +14,6 @@ class Popbal {
       return <h1 class={"tcolor"+this.y}>POP!</h1>;
     }
   }
-
-  fun2(props) {
-    // Function logic here
-  }
 }
 
 class Ba {
